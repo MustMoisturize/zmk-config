@@ -1,8 +1,8 @@
 file_format: "1"
-id: numpad_generic
-name: Generic Numpad
+id: scottonum
+name: ScottoNum
 type: shield
-url: https://github.com/sadteeto/numpad-generic
+url: https://github.com/MustMoisturize/zmk-config
 requires: [pro_micro]
 features:
   - keys
