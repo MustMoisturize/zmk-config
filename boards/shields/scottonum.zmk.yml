@@ -1,0 +1,8 @@
+file_format: "1"
+id: scottonum
+name: ScottoNum
+type: shield
+url: https://github.com/MustMoisturize/zmk-config
+requires: [pro_micro]
+features:
+  - keys
